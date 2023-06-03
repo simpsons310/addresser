@@ -1,0 +1,17 @@
+{
+    "name": "simpsons310/addresser",
+    "description": "A PHP package for addresses",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Addresser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "simpsons310",
+            "email": "giangnguyen1997@gmail.com"
+        }
+    ],
+    "require": {}
+}
